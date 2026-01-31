@@ -5,6 +5,7 @@
 # Ex) 0km~30km --> speed limit: 70kmph, 30km~80kmph --> speed limit: 35kmph, 80km~100km --> speed limit: 60kmph
 # We have to find maximum speed that Bessie's car's speed exceeds the speed limit. (answer: speed - speed limit)
 # If Bessie has never exceeded the speed limit, print 0
+
 N,M = list(map(int,input().split()))
 N_list = []
 M_list = []
