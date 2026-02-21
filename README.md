@@ -43,3 +43,14 @@
         - test case 10(마지막)번째까지 정답✅
     - Livestock lineup
         - 중도 포기❌
+
+2026.02.18
+
+- Assigned homework
+    - Milking order
+        - test case 1-2, 5-6, 8, 10(마지막) 정답✅
+        - test case 3-4, 7, 9 오답❌
+    - Cities and states
+        - test case 1 정답✅
+        - test case 2-3 오답❌
+        - test case 4-10(마지막) time limit exceeded⏳
