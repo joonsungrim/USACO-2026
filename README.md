@@ -54,3 +54,6 @@
         - test case 1 정답✅
         - test case 2-3 오답❌
         - test case 4-10(마지막) time limit exceeded⏳
+    - Sleepy cow sorting
+        - test case 3번째까지 정답✅
+        - test case 3-12번째까지 오답❌
